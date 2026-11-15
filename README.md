@@ -11,6 +11,7 @@ months, and shipping modes.
 
 The main purpose of this project is to make sales data easier to
 understand and help users identify useful business insights.
+
 Tools Used
 - Microsoft Power BI -- To create the dashboard and visual
   reports.
@@ -34,6 +35,7 @@ The dashboard contains the following visualizations:
    Technology, and Furniture.
 7. Sales by Ship Mode -- Shows sales based on Standard Class,
    Second Class, First Class, and Same Day shipping.
+
 Dataset Information
 The project uses the SuperStore_Sales_Dataset table.
 
@@ -53,6 +55,7 @@ Some of the main columns used in the dataset are:
 - Quantity
 - Profit
 - Payment Mode
+
 Key Insights
 From the dashboard, users can:
 - Compare sales from different customer segments.
@@ -60,6 +63,7 @@ From the dashboard, users can:
 - See which product categories and sub-categories have higher sales.
 - Explore sales and profit across states.
 - Compare the sales contribution of different shipping methods.
+
 How to Open the Project
 1. Download or clone this repository.
 2. Open the .pbit file using Microsoft Power BI Desktop.
