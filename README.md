@@ -71,3 +71,7 @@ How to Open the Project
    sales dataset and follow the prompts.
 4. Load or refresh the data if required.
 5. Explore the dashboard in Power BI Desktop.
+
+Screenshot/Demos :-
+Show what the dashboard looks like :- ![alt text]()
+Example :- ![Dashboard preview]()
