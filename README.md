@@ -74,4 +74,4 @@ How to Open the Project
 
 Screenshot/Demos :-
 Show what the dashboard looks like :- ![alt text](https://github.com/Dollysharma-30/Sales-Performance-Profitability-Analysis-Dashboard/blob/main/Sales%20Performance%20%26%20Profitability%20Analysis%20Dashboard.pbit)
-Example :- ![Dashboard preview]()
+Example :- ![Dashboard preview](https://github.com/Dollysharma-30/Sales-Performance-Profitability-Analysis-Dashboard/blob/main/sales%20dashboard.png)
