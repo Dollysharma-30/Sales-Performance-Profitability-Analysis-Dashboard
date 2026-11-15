@@ -73,5 +73,5 @@ How to Open the Project
 5. Explore the dashboard in Power BI Desktop.
 
 Screenshot/Demos :-
-Show what the dashboard looks like :- ![alt text]()
+Show what the dashboard looks like :- ![alt text](https://github.com/Dollysharma-30/Sales-Performance-Profitability-Analysis-Dashboard/blob/main/Sales%20Performance%20%26%20Profitability%20Analysis%20Dashboard.pbit)
 Example :- ![Dashboard preview]()
